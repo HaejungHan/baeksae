@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "백세시대 주간보호센터터",
-  description: "백세시대 주간보호센터 웹사이트트",
+  title: "백세시대 주간보호센터",
+  description: "백세시대 주간보호센터 웹사이트",
 };
 
 export default function RootLayout({
